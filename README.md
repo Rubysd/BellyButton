@@ -182,9 +182,8 @@ Use your knowledge of HTML and Bootstrap to customize the webpage for your dashb
 ° Change the layout of the page.
 ° Add a navigation bar that allows you to select the bar or bubble chart on the page.
   
-![Captura de pantalla (861)](https://user-images.githubusercontent.com/86340630/136881094-d8dd2a71-51ea-435e-a1b1-136df58c2c52.png)
-![image](https://user-images.githubusercontent.com/86340630/136882097-2c9c383f-cc76-42cc-86ba-272153d519db.png)
-![Captura de pantalla (863)](https://user-images.githubusercontent.com/86340630/136881683-b46850fb-0bfd-4753-aa6d-faa53214c7d6.png)
+![Captura de pantalla (867)](https://user-images.githubusercontent.com/86340630/136981068-aa36e6c8-106e-4bd7-9a7f-a1560cdfe242.png)
+!![image](https://user-images.githubusercontent.com/86340630/136979903-ed7fe14e-7387-46ef-8d19-c0ddb3737d84.png)
 
 
 
