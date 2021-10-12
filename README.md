@@ -181,7 +181,8 @@ Use your knowledge of HTML and Bootstrap to customize the webpage for your dashb
 ° Make the webpage mobile-responsive.
 ° Change the layout of the page.
 ° Add a navigation bar that allows you to select the bar or bubble chart on the page.
-  
+ 
+![image](https://user-images.githubusercontent.com/86340630/136981745-9225af90-045b-4f89-8bd7-372a9a091540.png)
 ![Captura de pantalla (867)](https://user-images.githubusercontent.com/86340630/136981068-aa36e6c8-106e-4bd7-9a7f-a1560cdfe242.png)
 !![image](https://user-images.githubusercontent.com/86340630/136979903-ed7fe14e-7387-46ef-8d19-c0ddb3737d84.png)
 
